@@ -23,8 +23,6 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhalac&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhalac" /> </p>
-
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhalac&show_icons=true&locale=en" alt="ahmedhalac" /></div>
 </br>
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhalac&" alt="ahmedhalac" /></div>
