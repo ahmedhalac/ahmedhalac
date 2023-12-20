@@ -13,6 +13,14 @@
    <img width="12" />
 </div>
 
+###
+
+<div align="left">
+  <img  margin-right="20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhalac&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="125" alt="languages graph"  />
+</div>
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=acchmedha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhalac" /> </p>
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=acchmedha&show_icons=true&locale=en" alt="ahmedhalac" /></div>
