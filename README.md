@@ -21,8 +21,21 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=acchmedha&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhalac" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedhalac&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhalac" /> </p>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=acchmedha&show_icons=true&locale=en" alt="ahmedhalac" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhalac&show_icons=true&locale=en" alt="ahmedhalac" /></div>
 </br>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acchmedha&" alt="ahmedhalac" /></div>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhalac&" alt="ahmedhalac" /></div>
+
+###
+
+
+<div align="centr">
+  <h4>Let's connect here:</h4>
+  <a href="https://twitter.com/acchmed_" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedhalac/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
